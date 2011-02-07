@@ -1,0 +1,22 @@
+d( VERSION 0.2 TO VERSION 0.3 )b
+
+* Restructured all methods with error handling done in base class functions
+* Fixed some errors on artist and track lib
++ Added new methods:
+	+ artist.chart.get
+
+d( VERSION 0.1 TO VERSION 0.2 )b
+
+* Restructured all methods with error handling done in base class functions
++ Added new methods:
+	+ artist.search
+	+ artist.get
+	+ track.search
+	+ track.get
+	+ track.lyrics.get
+	+ track.chart.get
++ Added sample to show extended examples of using the API
+
+d( INITIAL VERSION - 0.1 )b
+
+* Initial version
